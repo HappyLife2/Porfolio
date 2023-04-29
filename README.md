@@ -19,4 +19,4 @@ feel free to leave a star (much appreciated) fork it and customize as you like! 
 
 - Inspired design by Bedimcode-Alexa design 🙌
 
-Live Demo - https://happylife2.github.io/Personal-Porfolio/
+Live Demo - https://happylife2.github.io/Porfolio/
