@@ -112,6 +112,7 @@ html {
   scroll-behavior: smooth;
 }
 
+
 body {
   margin: 0 0 var(--header-height) 0;
   font-family: var(--body-font);
@@ -557,7 +558,7 @@ img {
 }
 
 .skills__google {
-  width: 70%;
+  width: 40%;
 }
 
 .skills__counter {
